@@ -1,2 +1,2 @@
-# App Mata Mosquito
- Jogo em JavaScript desenvolvido durante curso na Udemy
+# app-game-mata-mosquito
+Desenvolvimento de Jogo, usando apenas JavaScript
